@@ -1,2 +1,0 @@
-# yuseo
-sennheiser-mobile
